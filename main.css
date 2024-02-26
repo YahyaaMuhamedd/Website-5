@@ -188,7 +188,7 @@ ul {
     .back-sec .text p {
         max-width: 250px;
         text-align: start;
-        transform: translateX(35px);
+        transform: translateX(29px);
     }
 
     .back-sec .text .button {
