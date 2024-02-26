@@ -219,7 +219,7 @@ ul {
     width: 590px;
     position: relative;
     left: 100px;
-    line-height: 1.4;
+    line-height: 1.8;
     top: -80px;
 }
 
@@ -295,7 +295,7 @@ ul {
 
 @media screen and (max-width: 450px) {
     .social-icon {
-        transform: translateY(-650px);
+        transform: translateY(-398px);
         padding-right: 10px;
     }
 }
