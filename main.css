@@ -605,7 +605,7 @@ input:checked~label {
 
     .web-about .about-img .big-image img {
         width: 350px;
-         transform: translateX(17%);
+         transform: translateX(12%);
     }
 
     .about h1 {
@@ -616,7 +616,7 @@ input:checked~label {
 
     .web-about .text {
         padding-left: 10px;
-         transform: translateX(12%);
+         transform: translateX(7%);
     }
 
     .web-about .text p {
