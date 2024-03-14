@@ -629,10 +629,12 @@ input:checked~label {
 
     .web-about .about-img .big-image img {
         width: 250px;
+        transform: translateX(17%);
     }
 
     .web-about .text {
         padding-left: 10px;
+        transform: translateX(12%);
     }
 
     .web-about .text p {
